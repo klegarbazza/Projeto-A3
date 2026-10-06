@@ -8,19 +8,19 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\Pedro\\.nuget\\packages\\": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro\\Documents\\PROJETOA3\\PROJETO A3\\PROJETO A3\\PROJETO A3.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Documents\\A3PROJETO\\PROJETO A3\\PROJETO A3\\PROJETO A3.csproj",
       "projectName": "PROJETO A3",
-      "projectPath": "C:\\Users\\Pedro\\Documents\\PROJETOA3\\PROJETO A3\\PROJETO A3\\PROJETO A3.csproj",
-      "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro\\Documents\\PROJETOA3\\PROJETO A3\\PROJETO A3\\obj\\",
+      "projectPath": "C:\\Users\\usuario\\Documents\\A3PROJETO\\PROJETO A3\\PROJETO A3\\PROJETO A3.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\Documents\\A3PROJETO\\PROJETO A3\\PROJETO A3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
